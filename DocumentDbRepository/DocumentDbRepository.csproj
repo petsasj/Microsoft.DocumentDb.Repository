@@ -5,7 +5,10 @@
     <PackageId>petsasj.documentdb.repository</PackageId>
     <Authors>Petsasj, Pgl</Authors>
     <Product>petsasj.documentdb.repository</Product>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/petsasj/Microsoft.DocumentDb.Repository</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/petsasj/Microsoft.DocumentDb.Repository</RepositoryUrl>
+    <PackageLicenseUrl>https://licenses.nuget.org/MIT</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
